@@ -29,7 +29,7 @@ Capture whole market in Pakistan by providing "THE BEST" Services and on time re
 - Customer satisfaction becomes: Our project strives to become our customers’ place to do their favouriter orders (food or drink)
 - Teamwork and trust become: We provide support for our employees and encourage them to make their own decisions. 
 - Sustainability becomes: Do proper check and balance on the quality of food of restaurants who are working with us.
-## Stack Holders
+## Stake Holders
 1. Shehroz Ali 
 2. Sikander Ahmed Khan
 ## Basic Preview
